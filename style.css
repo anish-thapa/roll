@@ -1,0 +1,16 @@
+body{
+    font-family: Cambria;
+    text-align: center;
+}
+#button{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 10px;
+    border: none;
+ 
+    color: aliceblue;
+    background-color: red;
+}
+.label{
+    font-size: 3em;
+}
